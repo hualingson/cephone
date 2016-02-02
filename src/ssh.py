@@ -7,7 +7,7 @@ import paramiko
 from src import platform
 from src import tb
 
-CMD_SSH = 'ssh %(user)s@%(ip)s "%(command)s"'
+CMD_SSH = 'ssh %(user)s@%(ip)s "%(command)s"' #alternative
 
 def ssh(ip,port,username,password,command):
     try:
