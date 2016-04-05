@@ -5,3 +5,6 @@ Created on Feb 2, 2016
 '''
 
 from src import gui
+
+def AutoLayout(gui.Container):
+    pass
