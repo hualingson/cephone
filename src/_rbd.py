@@ -2,7 +2,7 @@
 '''
 Created on Feb 23, 2016
 
-@author: bob@huashanpai.net
+@author: hualingson@foxmail.com
 '''
 
 import rbd
